@@ -1,21 +1,26 @@
-# NOT READY YET  
-
-Please hold on while the code is refined. You get an email when it's ready.
-
 # GAD 405 Assignment 2: Radical Conversion
+Starter code, version 1.0
 
-This is the starting point for the second GAD 405 assignment.
-Fork and clone this repository from December 16. Then choose one of the three projects.
+This is the starter code for the second GAD 405 assignment.
+Fork and clone this repository.
 
-Project 1:
+Then choose one of the three projects.
 
-Project 2:
+Project 1: Endless Runner (Flappy Bird)
 
-Project 3:
+Project 2: 2D-Shooter (Space Invaders)
+
+Project 3: RPG
 
 Use this code as your starting point to create a radical conversion as detailed in the assignment brief. Remember: all assets have to be self-made.
 
-Credits:
+For audio assets this means: You can use software like GarageBand, Ableton, pure data or bfxr and the synthesizers / sound libraries these programs provide to create music and sound for your game. You cannot use prerecorded sound or music files created by someone else.
+
+Same rules for graphical assets: You can draw everything yourself or produce graphical artwork with a software program (p5.js for example). You cannot take any graphics created by someone else.
+
+Use an up-to date browser, e.g. Firefox or Chrome.
+
+Credits for the starter code:
 
 Project 1: Modified from tutorial code by Thomas Palef (http://www.lessmilk.com/) and Emanuele Feronato (http://www.emanueleferonato.com/). Assets by Emanuelle Feranto.
 
