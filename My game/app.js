@@ -20,11 +20,11 @@ const mainState = {
   },
 
   create: function () {
-    game.stage.backgroundColor = '#87CEEB';
-    // read about the next line at https://photonstorm.github.io/phaser-ce/Phaser.Stage.html#disableVisibilityChange
+    game.add.tileSprite(0, 0, 350, 490, 'background');
     game.stage.disableVisibilityChange = true;
 
-    this.player = game.add.sprite(80, 240, 'player');
+    this.player = game.add.sprite(80, 240,'player');
+    this.player.scale.setTo(0.4,0.4);
     this.player.anchor.set(0.5);
     this.playerSpeed = 125;
     this.playerFlapPower = 300;
